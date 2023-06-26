@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SpotifyProject</string>
+    <string name="search_text_view">Buscar</string>
+    <string name="search_search_view">Qué quieres escuchar?</string>
+    <string name="spotify_api_key"></string>
+    <string name="current_track_name_text_view">Like a stone • Audioslave</string>
+    <string name="big_current_track_name_hint_text">Blackbird - Remastered 2009</string>
+    <string name="big_current_track_author_hint_text">The Beatles</string>
+    <string name="playlist_description_hint_text">This is The Beatles. The essential tracks, all in one playlist.</string>
+    <string name="progress_bar_progress_hint_text">0:30</string>
+    <string name="progress_bar_duration_hint_text">1:30</string>
+    <string name="total_playlist_duration_hint_text">2h 59min</string>
+    <string name="playlist_total_followers_hint_text">23.233 me gusta</string>
+    <string name="point_separator">•</string>
+
+    <!-- MUSIC PLAYER ACTIONS -->
+    <string name="prev_action">Prev</string>
+    <string name="play_action">Play</string>
+    <string name="pause_action">Pause</string>
+    <string name="next_action">Next</string>
+</resources>
